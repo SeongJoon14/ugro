@@ -1,0 +1,21 @@
+.poster-description{
+    font-size: 12px;
+    font-family: 'Font Awesome 5 Free';
+}
+#sa-position{
+    color: #FDC72E;
+    font-size: 20px;
+    cursor: pointer;
+}
+.comments-board{
+    background-color: rgb(153, 153, 149);
+    height: calc(100% * 0.8);
+    margin-top: calc(100% * 0.2);
+}
+#thumbnail-star{
+    position: absolute;
+    right: 2px;
+    color: yellow;
+    cursor: pointer;
+    font-size: large;
+}
